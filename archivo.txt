@@ -1,2 +1,3 @@
-Ejemplo con git,
-con unos cambios.
+Nombre: Claudia
+Edad: 21
+Ocupacion: Estudiante
