@@ -4,4 +4,3 @@ Ocupacion: Estudiante
 Hermanas: 2
 Estado: Tabasco
 Pareja: Pako
-Hola mundo
